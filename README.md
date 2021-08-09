@@ -13,5 +13,4 @@ Working:
 •	Defining the content, style, and total loss for iteratively updating a target image\
 
 ![nst1](https://user-images.githubusercontent.com/47984097/128694170-04d697cd-11cf-48ee-bb4f-f9ac77c81c38.png)
-![nst2](https://user-images.githubusercontent.com/47984097/128694184-a7d93377-6554-4de3-b7ce-6cb946aacd4c.png)
 

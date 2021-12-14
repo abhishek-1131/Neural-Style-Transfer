@@ -1,4 +1,5 @@
 # Neural-Style-Transfer
+Recreating the output of paper: [Image Style Transfer Using Convolutional Neural Networks, by Gatys](https://ieeexplore.ieee.org/document/7780634)
 
 VGG-19 Pre-Trained Model
 
